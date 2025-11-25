@@ -54,43 +54,43 @@ Welcome to Knowledge-Augmented Chatbot with LangChain & Azure AI Search Hands-On
 
 Once you're ready to dive in, your virtual machine and Lab guide will be right at your fingertips within your web browser.
 
-![](./media/gs1.png)
+![](./media/im-01.png)
 
 ### Exploring Your Lab Resources
 
 To get a better understanding of your Lab resources and credentials, navigate to the Environment tab.
 
-![](./media/gs2.png)
+![](./media/im-02.png)
 
 ### Utilizing the Split Window Feature
 
 For convenience, you can open the Lab guide in a separate window by selecting the Split Window button from the Top right corner
 
-![](./media/gs3.png)
+![](./media/im-03.png)
 
 ### Managing Your Virtual Machine
 
 Feel free to start, stop, or restart your virtual machine as needed from the Resources tab. Your experience is in your hands!
 
-![](./media/gs4.png)
+![](./media/im-04-1.png)
 
 ## Let's Get Started with Azure Portal
 
 1. In the JumpVM, click on **Azure portal** shortcut of Microsoft Edge browser which is created on desktop.
 
-   ![](./media/gs-8.png)
+   ![](./media/im-05-1.png)
 
 1. On the **Sign into Microsoft Azure** tab, you will see the login screen. Enter the provided email or username, and click **Next** to proceed.
 
    - Email/Username: <inject key="AzureAdUserEmail"></inject>
 
-     ![](./media/gs-6.png)
+     ![](./media/afg7.png)
 
 1. Now, enter the following password and click on **Sign in**.
 
    - Password: <inject key="AzureAdUserPassword"></inject>
 
-     ![](./media/gs-7.png)
+     ![](./media/afg8.png)
 
      >**Note:** If you see the Action Required dialog box, then select Ask Later option.
      

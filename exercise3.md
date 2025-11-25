@@ -150,7 +150,7 @@ In this task, you will integrate LangChain’s CallbackHandler to monitor the ag
 
    ![](./media/ex2img12.png)
 
-run the following command in the terminal to run the retriever.
+1. run the following command in the terminal to run the retriever.
 
    ```
    python exercise2_retrieval.py

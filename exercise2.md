@@ -188,13 +188,13 @@ In this task, you will create a RetrievalQA chain by connecting your search retr
 
    ![](./media/ex2img26.png)
 
-1. From the overview page, click on **Go to Azure AI Foundry Portal**.
+1. From the overview page, click on **Go to Foundry Portal**.
 
-   ![](./media/ex2img14.png)
+   ![](./media/im-06-1.png)
 
-1. You will be navigated to **Azure AI Foundry Portal**. Select the **Deployments (1)** from left menu and click on **gpt-25-turbo (2)**.
+1. You will be navigated to **Microsoft Foundry** portal. Select the **Deployments (1)** from left menu and click on **gpt-4 (2)**.
 
-   ![](./media/ex2img15.png)
+   ![](./media/im-07-1.png)
 
 1. Once opened, scroll down and search for the code implementation part. Verify the **api_version** value in your `.env` file is same as the value sown in the portal, if not update the value to the value, shown in the portal.
 
@@ -202,7 +202,7 @@ In this task, you will create a RetrievalQA chain by connecting your search retr
 
 1. Once done the `.env` file will look similar to this.
 
-   ![](./media/ex2img27.png)
+   ![](./media/im-08-1.png)
 
 1. From the top menu, select **... (1)** and click on **Terminal  (2)** and from the list, select **New terminal  (3)**.
 
